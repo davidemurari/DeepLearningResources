@@ -1,6 +1,6 @@
 In this repository we can collect online material that can be of help to all the members of our group. 
 
-The folder "Reading Group Slides" instead collects the slides and papers discussed during our monthly sessions, in case one wants to share them.
+The folder reading group material can instead be found here : [Reading Group](ReadingGroupSlides/slides.md) instead collects the slides and papers discussed during our monthly sessions, in case one wants to share them.
 
 ###### Interesting video (courses)
 
